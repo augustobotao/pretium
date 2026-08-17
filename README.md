@@ -1,2 +1,2 @@
 # PRETIUM
-Empowering businesses with AI, automation, modern websites, and digital transformation. Building intelligent solutions for Africa and beyond.
+Websites and lightweight automation for small businesses in Beira, Mozambique, built by a solo founder learning to ship fast and sell direct.
